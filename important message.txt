@@ -1,0 +1,3 @@
+To run these project use 'npm run dev:server'
+This project use React JS 18, React Router DOM 6.9, MUI Joy UI, JSON Server
+The MUI Template link 'https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa05NUFZPcFFaR3ZDaXNnazFzNUFVZ3BYdEppUXxBQ3Jtc0tuWW9Hdm14ekRlRzFuVjF5dkdUX0xPcUN0VGZacllqWW5wQ0VTNEZ0Zm41YmptMnFsRTU3Y1g0V2p3V0xZM3poRnhOR21KUmktNjUxZXBXY0NsZmEzaTFJajNXczE0N21VRFJTQ3o5M0F0MFIxamhOdw&q=https%3A%2F%2Fgist.github.com%2FtoofaniCoder%2F3613f225e3ef3218f243d6bc2cea0aa0&v=pKGNXI5oiAU'

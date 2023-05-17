@@ -1,0 +1,31 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "avatar": "https://i.pravatar.cc/300?img=1",
+      "name": "Nurul Handayani",
+      "address": "Depok",
+      "standard": "12.8B.10",
+      "roll": "23",
+      "section": "D"
+    },
+    {
+      "id": 2,
+      "avatar": "https://i.pravatar.cc/300?img=2",
+      "name": "Iwake wkwkwk",
+      "address": "Jakarta",
+      "standard": "12.8B.10",
+      "roll": "17",
+      "section": "D"
+    },
+    {
+      "avatar": "https://i.pravatar.cc/150?img=67",
+      "name": "Kevin Kantona Pasaribu",
+      "address": "Depok",
+      "standard": "12.8B.10",
+      "roll": "09",
+      "section": "A",
+      "id": 3
+    }
+  ]
+}
